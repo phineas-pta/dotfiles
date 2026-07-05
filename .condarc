@@ -1,0 +1,8 @@
+channels:
+  - conda-forge
+  - defaults
+envs_dirs:
+  - ███/envs
+pkgs_dirs:
+  - ███/pkgs
+default_threads: 8

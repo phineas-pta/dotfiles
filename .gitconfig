@@ -1,0 +1,14 @@
+# contents go to ~/.gitconfig
+
+[core]
+  editor = vim
+[user]
+  email = ███
+  name = ███
+  signingkey = ███
+[commit]
+  gpgsign = true
+[gpg]
+  program = ███ # if not in PATH
+[remote "origin"]
+  prune = true

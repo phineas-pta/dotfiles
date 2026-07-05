@@ -1,0 +1,17 @@
+# contents go to ~/.ssh/config
+
+Host github.com
+	HostName github.com
+	User git
+	IdentityFile ~/.ssh/my_ssh_key
+	IdentitiesOnly=yes
+Host gist.github.com
+	HostName gist.github.com
+	User git
+	IdentityFile ~/.ssh/my_ssh_key
+	IdentitiesOnly=yes
+Host gitlab.com
+	HostName gitlab.com
+	User git
+	IdentityFile ~/.ssh/my_ssh_key
+	IdentitiesOnly=yes
