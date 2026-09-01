@@ -1,0 +1,17 @@
+1. việt hóa
+https://theredteam.vn/stellar-blade-viet-hoa > https://drive.google.com/file/d/1YjKDi1beout_Gx90TouVib2vD5uu8kv4/view
+Để xoá Việt Hoá: Vào theo đường dẫn SB\Content\Paks và xoá file VietHoa_TRT_P.pak là được
+
+2. Ultimate Engine Tweaks
+https://www.nexusmods.com/stellarblade/mods/17
+
+Open the game at least once and close it, then download Engine.ini to paste/replace in:
+%localappdata%\SB\Saved\Config\WindowsNoEditor
+then Right-Click on it -> Properties -> make sure the "Read-Only" box is selected -> Apply/OK
+DO NOT USE TOGETHER WITH OTHERS "OPTIMIZATION" MODS (any other mod will be compatible)
+
+3. tools - not tested
+https://github.com/Chrisr0/RE-UE4SS/releases (UE4SS For Stellar Blade)
+https://www.nexusmods.com/stellarblade/mods/1496 (Custom Nanosuit System)
+
+mods put to SB\Content\Paks\~mods

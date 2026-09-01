@@ -1,0 +1,78 @@
+ATTENTION: mods for LEGACY version (gen8) will cause crash on ENHANCED version (gen9) (tips: post 2025)
+
+1. Script Hook V + Native Trainer
+https://www.gta5-mods.com/tools/script-hook-v
+put .asi & .dll files from 'bin' folder to game folder (except dinput8.dll)
+
+Native Trainer Controls
+F4 - activate
+NUM2/8/4/6 - navigate thru the menus and lists (numlock must be on)
+NUM5 - select
+NUM0/BACKSPACE/F4 - back
+NUM9/3 - use vehicle boost when active
+NUM+ - use vehicle rockets when active
+
+2. .asi file mods
+put .asi/.dll/.ini to game folder
+https://www.gta5-mods.com/tools/script-hook-v-net-enhanced (remember to change key binding)
+https://www.gta5-mods.com/scripts/directstoragefix (only for nvme ssd)
+https://www.gta5-mods.com/tools/rageopenv
+https://www.gta5-mods.com/scripts/straight-to-story-mode
+https://www.gta5-mods.com/misc/xtremetool-enhanced (can also change traffic)
+https://www.gta5-mods.com/scripts/tanuki-s-fwbox-streamer-decals-patch-enhanced
+https://www.gta5-mods.com/scripts/lefix-speedometer (copy also the folder) - press F10 to open menu in game
+https://www.gta5-mods.com/scripts/dynamic-traffic-colors
+
+create a `scripts` folder and put inside instead of game folder
+https://www.gta5-mods.com/scripts/consciousness-net
+https://www.gta5-mods.com/scripts/autodriver-mod (remember to change key binding)
+https://www.gta5-mods.com/scripts/dismemberment-ultimate-singleplayer-for-enhanced-and-nve (.asi to game folder and dlc.rpf with installer below)
+
+3. OIV Package Installer
+https://www.gta5-mods.com/tools/oiv-package-installer
+stand-alone .exe to install .oiv/dlc.rpf file
+auto-create proper folder structure
+
+if run 1st time, copy `update\update.rpf` to `mods\update\update.rpf` (create folder if necessary)
+install .oiv before dlc.rpf
+
+4. việt hoá (.oiv file) - chọn 1 trong các file sau
+bản việt hoá trên https://www.gta5-mods.com/misc/gta-v-vietnamese-viet-hoa dùng cho bản LEGACY
+xem ngày của file .oiv với 7zip
+
+2026-04-26
+https://loakeosonimax.blogspot.com/p/popup-full-man-hinh-sonimax-css-e-tao.html > https://drive.google.com/file/d/1RmMMJXjZA-SgfoNZzyzRI4AqeQ6cc3Ec/view
+pass : sonixgta
+sửa cuối file assembly.xml để ko đụng vào file game chính
+
+2026-03-09
+https://www.facebook.com/groups/gta5vietnamese/permalink/897781353300065/ > https://www.fshare.vn/file/BRLEX84J5TEB
+
+2025-10-10
+https://www.youtube.com/watch?v=3I4pKQn3cdg > https://drive.google.com/file/d/10sO_XdNAWUxadL7bQ0hugezBwggz8b8N/view
+
+5. .oiv/.rpf file mods
+https://www.gta5-mods.com/maps/gta-v-remastered-enhanced
+https://www.gta5-mods.com/maps/forests-of-san-andreas-revised
+https://www.gta5-mods.com/misc/vegetation-reflection
+https://www.nexusmods.com/gta5enhanced/mods/535 (Colored Map)
+https://www.gta5-mods.com/misc/maxedwhitestreetlights
+
+maybe not necessary
+https://www.gta5-mods.com/vehicles/drive-v-realistic-driving-car-handling
+https://www.gta5-mods.com/weapons/immersive-combat-artupaky01
+https://www.gta5-mods.com/maps/map-fixes
+https://www.gta5-mods.com/misc/fixes-improvements
+https://www.gta5-mods.com/misc/bass-dragon-s-euphoria-overhaul-w-i-p-v1-0
+https://www.gta5-mods.com/scripts/gameplayfixesv
+https://www.nexusmods.com/gta5enhanced/mods/63 (Sound Pack)
+https://www.razedmods.com/gta-v
+
+6. wait for ENHANCED version support
+https://www.gta5-mods.com/misc/visualvanilla
+https://www.gta5-mods.com/misc/improved-spotlight-and-led-lighting
+https://www.gta5-mods.com/misc/realistic-lighting-v
+https://www.gta5-mods.com/maps/citylights-v1-visualparadox
+https://www.gta5-mods.com/paintjobs/lighting-effects-overhaul-00111001
+https://www.gta5-mods.com/weapons/realistic-weapons-sounds
+https://www.gta5-mods.com/misc/improvements-in-gore

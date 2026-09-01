@@ -1,0 +1,24 @@
+1. việt hoá - hội game á châu
+https://www.facebook.com/groups/hoigameachau
+https://j2team.dev/go/WukongVHLite221225 > https://drive.google.com/file/d/1aJGAr_dskXbwr0LuOikrLievwnkBiEHi/view
+https://j2team.dev/go/WukongVHFull221225 > https://drive.google.com/file/d/1E2Im3Twzn7UNDAB9xqm9eE9wYuuF7oDx/view
+
+Để xoá Việt Hoá: Vào theo đường dẫn b1\Content\Paks\ và xoá file việt hoá .pak là được
+
+2. Ultimate Engine Tweaks
+https://www.nexusmods.com/blackmythwukong/mods/847
+
+Open the game at least once and close it, then download Engine.ini to paste/replace in:
+%localappdata%\b1\Saved\Config\Windows
+then Right-Click on it -> Properties -> make sure the "Read-Only" box is selected -> Apply/OK
+DO NOT USE TOGETHER WITH OTHERS "OPTIMIZATION" MODS (any other mod will be compatible)
+
+3. Signature Bypass
+https://www.nexusmods.com/blackmythwukong/mods/133
+extract into b1\Binaries\Win64
+
+4. minimap
+https://www.nexusmods.com/blackmythwukong/mods/1172
+extract into b1\Binaries\Win64
+https://www.nexusmods.com/blackmythwukong/mods/1344
+replace with desired files

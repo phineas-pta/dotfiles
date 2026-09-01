@@ -1,0 +1,28 @@
+1. việt hóa
+https://viethoagame.com/threads/pc-nier-automata-tm-viet-hoa.134/ > https://www.mediafire.com/file/byvrtyhp26buvi5/%5BVietHoaGame%5D_NieRAutomata_Viet_hoa.zip
+
+2. tools
+https://www.nexusmods.com/nierautomata/mods/744 (Wolf's Automata eXtensions - WAX)
+rename wax.dll to either dxgi.dll, dinput8.dll or d3d11.dll and place it next to game executable
+avoid using outdated tools like FAR / SpecialK
+
+https://www.nexusmods.com/nierautomata/mods/772 (YoRHa Protocol) - not tested yet
+
+3. quality of life
+https://www.nexusmods.com/nierautomata/mods/494 (No-Intro)
+https://www.nexusmods.com/nierautomata/mods/165 (Automata-LodMod)
+
+4. visual
+https://www.nexusmods.com/nierautomata/mods/688 (H.264 60 FPS Movies)
+https://www.nexusmods.com/nierautomata/mods/1 (Bande Desinee)
+https://www.nexusmods.com/nierautomata/mods/488 (Bunker in Color)
+https://www.nexusmods.com/nierautomata/mods/489 (Remove Grid Grain and Vignette)
+https://www.nexusmods.com/nierautomata/mods/657 (Denser Grass)
+
+texture from FAR / SpecialK: put to wax\mods\random_name\textures instead of put to SK_Res\inject\textures
+https://www.nexusmods.com/nierautomata/mods/151 (Home Menu Texture compression fix)
+
+texture pack below may crash game for unknown reason
+https://www.nexusmods.com/nierautomata/mods/5 (HD Texture Pack)
+https://www.nexusmods.com/nierautomata/mods/763 (1440p and 1080p Texture Pack)
+https://www.nexusmods.com/nierautomata/mods/760 (4K Texture Pack)

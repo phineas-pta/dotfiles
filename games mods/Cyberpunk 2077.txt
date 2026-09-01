@@ -1,0 +1,48 @@
+1. tools
+https://www.nexusmods.com/cyberpunk2077/mods/107 (Cyber Engine Tweaks)
+https://www.nexusmods.com/cyberpunk2077/mods/818 (Simple Menu)
+https://www.nexusmods.com/cyberpunk2077/mods/3518 (Native Settings UI)
+https://www.nexusmods.com/cyberpunk2077/mods/11384 (MenuMod)
+
+việt hoá: https://theredteam.vn/cyberpunk-2077 > https://drive.google.com/file/d/1lHTJGrjsaRV9w9dqBtMtD5weZSCWyJBi/view
+Để xoá Việt Hoá: Vào theo đường dẫn archive/pc/mod và xoá file TheRedTeam.archive là được
+
+mods extracted to:
+- archive\pc\mod
+- bin\x64\plugins\cyber_engine_tweaks\mods
+
+2. quality of life
+https://www.nexusmods.com/cyberpunk2077/mods/5202 (Autoloot)
+https://www.nexusmods.com/cyberpunk2077/mods/8144 (Load Begone)
+https://www.nexusmods.com/cyberpunk2077/mods/3278 (Speed Time Acceleration)
+https://www.nexusmods.com/cyberpunk2077/mods/18382 (Preem Menu)
+https://www.nexusmods.com/cyberpunk2077/mods/18389 (Faster Elevators)
+https://www.nexusmods.com/cyberpunk2077/mods/3016 (Cyber Vehicle Overhaul)
+https://www.nexusmods.com/cyberpunk2077/mods/17937 (Cyber Vehicle Overhaul - DLC Bundle)
+
+3. visual
+https://www.nexusmods.com/cyberpunk2077/mods/19258 (Effects Rendering Fix)
+https://www.nexusmods.com/cyberpunk2077/mods/2675 (Immersive First Person v2)
+https://www.nexusmods.com/cyberpunk2077/mods/21208 (3D World Map Explorer)
+https://www.nexusmods.com/cyberpunk2077/mods/14211 (Nova Crowds)
+https://www.nexusmods.com/cyberpunk2077/mods/13090 (Higher TV Quality)
+https://www.nexusmods.com/cyberpunk2077/mods/8105 (Blur Begone)
+https://www.nexusmods.com/cyberpunk2077/mods/12700 (Always Best Quality)
+https://www.nexusmods.com/cyberpunk2077/mods/8233 (reFlash 2.0)
+https://www.nexusmods.com/cyberpunk2077/mods/8628 (reGlass 2.0)
+https://www.nexusmods.com/cyberpunk2077/mods/11885 (METRO GLASS)
+https://www.nexusmods.com/cyberpunk2077/mods/3196 (Weather Probability Rebalance)
+https://www.nexusmods.com/cyberpunk2077/mods/22805 (Elite Screens)
+https://www.nexusmods.com/cyberpunk2077/mods/10458 (CET NPC Body Tweaks)
+https://www.nexusmods.com/cyberpunk2077/mods/19500 (Smart Frames Enhanced)
+https://www.nexusmods.com/cyberpunk2077/mods/13372 (Environment Textures Overhaul)
+https://www.nexusmods.com/cyberpunk2077/mods/13014 (Enable Advert Animations)
+https://www.nexusmods.com/cyberpunk2077/mods/7652 (HD Reworked Project)
+https://www.nexusmods.com/cyberpunk2077/mods/11003 (Crowd E3 2018 Restored)
+
+4. gooner
+https://www.nexusmods.com/cyberpunk2077/mods/8157 (Preem Skin)
+https://www.nexusmods.com/cyberpunk2077/mods/22707 (Hi-Res NPC Body Textures)
+https://www.nexusmods.com/cyberpunk2077/mods/4590 (Hotscenes)
+https://www.nexusmods.com/cyberpunk2077/mods/4626 (Panam Romanced Enhanced)
+https://www.nexusmods.com/cyberpunk2077/mods/4508 (Judy Romanced Enhanced)
